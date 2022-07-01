@@ -8,14 +8,14 @@
 
  3. You may apply transfer learning.
  
- ⚡️ Sample train data (Before)
- ![Before](image/P3_train.png)
+ ⚡️ Sample train data
+ ![sample](image/P3_train.png)
  
- ⚡️ Sample trained data (After)
- ![After](image/P3_train1.png)
+ ⚡️ Sample train data with classification
+ ![sample1](image/P3_train1.png)
  
  ⚡️ Image to be predicted
- ![predict](image/predict.png)
+ ![predict](image/concrete.png)
  
  ⚡️ Result
  ![Result](image/P3.png)
